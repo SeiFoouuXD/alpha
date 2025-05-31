@@ -1,9 +1,9 @@
 <?php
 // Database connection details
-$host = 'localhost'; // Replace with your database host
-$dbname = 'alphapharm'; // Replace with your database name
-$username = 'root'; // Replace with your database username
-$password = ''; // Replace with your database password
+$host = 'localhost'; 
+$dbname = 'alphapharm'; 
+$username = 'root';
+$password = ''; 
 
 // Create a connection to the database
 try {
